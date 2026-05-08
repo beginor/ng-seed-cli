@@ -10,7 +10,7 @@
     "lint": "ng lint"
   },
   "private": true,
-  "packageManager": "pnpm@10.32.1",
+  "packageManager": "pnpm@11.0.8",
   "dependencies": {
     "@angular/common": "^21.2.0",
     "@angular/compiler": "^21.2.0",
@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "@angular-eslint/builder": "21.3.1",
-    "@angular/build": "^21.2.3",
-    "@angular/cli": "^21.2.3",
+    "@angular/build": "^21.2.10",
+    "@angular/cli": "^21.2.10",
     "@angular/compiler-cli": "^21.2.0",
     "@eslint/js": "^10.0.1",
     "angular-eslint": "21.3.1",
